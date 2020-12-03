@@ -1,0 +1,14 @@
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\dayTwo.exe
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\input.txt
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\dayTwo.deps.json
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\dayTwo.runtimeconfig.json
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\dayTwo.runtimeconfig.dev.json
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\dayTwo.dll
+D:\programmering\Adventer of code\dayTwo\dayTwo\bin\Debug\netcoreapp3.1\dayTwo.pdb
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.csprojAssemblyReference.cache
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.AssemblyInfoInputs.cache
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.AssemblyInfo.cs
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.csproj.CoreCompileInputs.cache
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.dll
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.pdb
+D:\programmering\Adventer of code\dayTwo\dayTwo\obj\Debug\netcoreapp3.1\dayTwo.genruntimeconfig.cache
